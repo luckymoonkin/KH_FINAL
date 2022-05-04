@@ -8,8 +8,8 @@ import com.twilio.type.PhoneNumber;
 public class SendSMSTwilio {
 	
 	  // Find your Account Sid and Token at twilio.com/user/account
-	  public static final String ACCOUNT_SID = "AC16c80f4eb591bd2d04be3c5dda19aa6f"; // 발급받은 SID
-	  public static final String AUTH_TOKEN = "2bcd7a922269f711a9a412029cc15a81";  // 발급받은 TOKEN
+	  public static final String ACCOUNT_SID = "보안상 이유로 삭제"; // 발급받은 SID
+	  public static final String AUTH_TOKEN = "보안상 이유로 삭제";  // 발급받은 TOKEN
 	  
 	  // SMS 전송
 	  public static int sendSMS (String country, String phoneNum) {

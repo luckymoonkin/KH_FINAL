@@ -17,8 +17,8 @@ import com.github.scribejava.core.oauth.OAuth20Service;
 
 public class NaverLoginBO {
 
-	private final static String CLIENT_ID = "nFLkzkLOtgaTetd_ijEY"; 
-	private final static String CLIENT_SECRET = "QgHE0lnPDm"; 
+	private final static String CLIENT_ID = "보안상 이유로 삭제"; 
+	private final static String CLIENT_SECRET = "보안상 이유로 삭제"; 
 	private final static String REDIRECT_URI = "http://localhost:8088/4earth/login/oauth_naver"; 
 	
     // 세션 유효값검증용 체크용

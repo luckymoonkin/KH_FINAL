@@ -2,7 +2,7 @@
         Kakao Login
 ---------------------------------- */
 // 어떤 애플리케이션이 연동될 것인지 설정(설정 사이트의 js키)
-window.Kakao.init("d33d858d13446389bd9ff29763e3a882");
+window.Kakao.init("보안상 이유로 삭제");
 
 function kakaoLogin(){
     window.Kakao.Auth.login({
